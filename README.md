@@ -1,2 +1,2 @@
-# Some prime tests written on C languge.
+# Some primality tests written on C languge.
 
